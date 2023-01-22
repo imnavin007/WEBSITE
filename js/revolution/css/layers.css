@@ -970,7 +970,7 @@
 	text-decoration:none;
 }
 
-.tp-caption.Furniture-LogoText,.Furniture-LogoText
+.tp-caption.services-LogoText,.services-LogoText
 {
 	background-color:transparent;
 	border-color:transparent;
@@ -988,7 +988,7 @@
 	text-shadow:none;
 }
 
-.tp-caption.Furniture-Plus,.Furniture-Plus
+.tp-caption.services-Plus,.services-Plus
 {
 	background-color:rgba(255,255,255,1.00);
 	border-color:transparent;
@@ -1007,7 +1007,7 @@
 	text-shadow:none;
 }
 
-.tp-caption.Furniture-Title,.Furniture-Title
+.tp-caption.services-Title,.services-Title
 {
 	background-color:transparent;
 	border-color:transparent;
@@ -1026,7 +1026,7 @@
 	text-shadow:none;
 }
 
-.tp-caption.Furniture-Subtitle,.Furniture-Subtitle
+.tp-caption.services-Subtitle,.services-Subtitle
 {
 	background-color:transparent;
 	border-color:transparent;
